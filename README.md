@@ -1,15 +1,16 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-**ShihaoTUD/ShihaoTUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🌱 I’m a PhD student at TU Delft, specializing in applied geophysics and petrophysics.
+📫 You can reach me at: s.fu-2@tudelft.nl
 
-Here are some ideas to get you started:
+## Projects
+🚀 Experimental Research: Investigating the sealing and healing behavior of rock salt fractures.
+💻 Numerical Modeling: Utilizing ABAQUS and COMSOL to study the evolution of rock salt fractures in underground storage systems.
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills
+Programming Languages: MATLAB, Python, and more.
+Software Expertise: ABAQUS, COMSOL, and related simulation tools.
 
+## Fun Fact
+🎉 In my free time, I enjoy playing table tennis and badminton!
