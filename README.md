@@ -6,3 +6,4 @@ About Me
 - 🚀 Experimental Research: Investigating the sealing and healing behavior of rock salt fractures.
 - 💻 Numerical Modeling: Utilizing ABAQUS and COMSOL to study the evolution of rock salt fractures in underground storage systems.
 - 🎉 In my free time, I enjoy playing table tennis and badminton!
+- personal website: 
