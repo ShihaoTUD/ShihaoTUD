@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-# About Me
+ About Me
 - 🌱 I’m a PhD student at TU Delft, specializing in applied geophysics and petrophysics.
 - 📫 You can reach me at: s.fu-2@tudelft.nl
 # Projects
