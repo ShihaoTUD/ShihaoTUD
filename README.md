@@ -2,7 +2,6 @@
 About Me
 
 🎓 Fifth-year PhD candidate in Applied Geophysics & Petrophysics at TU Delft.
-
 🔬 Research Focus: Mechanical–chemical evolution, sealing and healing of rock salt fractures for underground energy storage.
 
 🧪 Experimental Work: Flow-through dissolution experiments, long-term fracture healing, mechanical testing.
