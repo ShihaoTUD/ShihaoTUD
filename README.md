@@ -1,7 +1,7 @@
 👋 Welcome to My GitHub Profile!
 About Me
 
-🎓 Fifth-year PhD candidate in Applied Geophysics & Petrophysics at TU Delft.
+🎓 PhD - Geoscience and engineering - Delft University of Technology.
 
 🔬 Research Focus: Mechanical–chemical evolution, sealing and healing of rock salt fractures for underground energy storage.
 
